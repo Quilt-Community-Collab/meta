@@ -5,6 +5,7 @@
 
   embeds:
     - title: Welcome to the Quilt Community Collab Program
+      color: 0x5865F2
 
       description: >
         Welcome to the Quilt Community Collab Program, Quilt's answer to the rampant bigotry and harassment that has
