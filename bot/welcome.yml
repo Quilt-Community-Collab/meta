@@ -1,0 +1,144 @@
+- type: text
+  text: https://cdn.discordapp.com/attachments/905232217737928745/1037697577518379008/qcc-banner.png
+
+- type: embed
+
+  embeds:
+    - title: Welcome to the Quilt Community Collab Program
+
+      description: >
+        Welcome to the Quilt Community Collab Program, Quilt's answer to the rampant bigotry and harassment that has
+        long rooted itself in the Minecraft community.
+
+
+        The Program exists to facilitate information-sharing between Minecraft-related communities, and allow staff
+        members from participating communities to collaborate on moderation, community design, and event planning. Our
+        goal is to try to improve the entire Minecraft community sphere for everyone, by allowing for the early warning
+        of community threats, problem users, targeted attacks and trending social issues.
+
+
+        The Program was born out of a need for change in the Minecraft community. It's long been the case that 
+        the Minecraft community has been a hotbed of bigotry and harmful behaviour, and this is Quilt's way of
+        supporting the community sphere it exists in - giving back to the minorities that ultimately resulted in its
+        reason to exist.
+
+
+        Despite this being a work-oriented space, we hope you enjoy your time with us. Feel free to contact a
+        <@&905218921605513276> if you need anything!
+
+- type: text
+  text: https://cdn.discordapp.com/attachments/905232217737928745/1037699418037690498/qcc-rules.png
+
+- type: rules
+
+  rules:
+    Follow Quilt's Code of Conduct: >
+      Everyone is expected to read and abide by our [Code of Conduct](http://quiltmc.org/community/code-of-conduct)
+
+    Follow Discord's rules: >
+      As a Discord-based community, we require everyone to follow Discord's
+      [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms)
+
+    Try to speak English: >
+      The common language in our community is English, but we understand that not everyone speaks English at the same
+      level. Try to speak English to the best of your ability, and don't worry if you need to use translation tools. We
+      will not tolerate making fun of people for poor English.
+
+    This is not a popularity contest: >
+      You are expected to behave professionally here and provide quality contributions to our community when you can.
+      Try not to be consumed by hubris, and remember that everyone is here to do their best for their users - even if
+      you disagree with their methods, or aren't the biggest fan of specific communities or their staff members.
+
+    Prioritise your safety and mental health: >
+      It's extremely important that you look after yourself before anyone else - even if you would prefer to sacrifice
+      your mental health to work on something here. You can't look after other people if you don't look after yourself,
+      and it's going to be impossible for you to handle your community work if you overload yourself.
+
+    Don't create accessibility problems: >
+      For example, by posting flashing images or emoji, setting a blank avatar, impersonating other users or making
+      your name hard to read.
+
+    Don't gatekeep: >
+      Specifically, don't treat other communities here with contempt unless there is a legitimate issue, and don't look
+      down on communities that don't follow your infraction system or have rules that don't match your own.
+
+    Be respectful and patient: >
+      Not everyone here will have the same level of experience. Additionally, while any form of discrimination or hate
+      speech is grounds for permanent removal of a user (or community) from this project, please try to educate other
+      members when they accidentally say something harmful.
+
+    Use the channels properly: >
+      Always check the description of a channel, **and its pins,** before using it.
+    
+    Do not blindly sync infractions: >
+      The Program is intended to help keep you and your coworkers informed. All moderation actions that you take in
+      your community spaces should be properly researched, and we heavily advise against blindly syncing bans or other
+      infractions from the other communities that are part of the Program.
+
+      The Program is not meant to be used as a way to perform character assasinations, and different communities that
+      are part of the Program will have different rulesets. While we try to be clear on the information provided in
+      any form of infraction logging, it's important that you double check to make sure that any infractions you carry
+      over to your spaces should actually be applied under your community's rules and policies.
+
+      Communities that are found to be blindly syncing infractions to their communities risk being permanently removed
+      from the Program.
+
+- type: text
+  text: https://cdn.discordapp.com/attachments/905232217737928745/1037699417727320155/qcc-channels.png
+
+- type: embed
+
+  embeds:
+    - title: Channel Categories
+      color: 0x5865F2
+
+      description: >
+        **General**
+
+        Channels for general chatter and socialising with other Program members
+
+
+        **Forums**
+
+        Forum channels meant for targeted discussions with properly-tagged topics
+
+        
+        **Moderation**
+
+        Channels for discussion of moderation issues, including alerts that other communities should be aware of
+
+
+        **Meta**
+
+        Channels for discussions relating to the Program itself, as well as voting and suggestions
+
+
+        **Event Planning**
+
+        Channels for planning community events, including cross-community collaboration, conventions and larger event
+        types
+
+
+        **Project Categories** (🔧)
+
+        Channels related to specific projects that are maintained as part of the Program
+
+        **Links**
+
+        Channels for links to useful tools, resources, and communities that will help you with your community work and
+        provide ways for you to improve your moderation approach
+
+
+        **Feeds**
+
+        Automated feeds from across Discord, and beyond
+
+
+        **Logs**
+
+        Automated logging channels, populated by our bots and integrations
+
+
+        **Archived**
+
+        Older channels that are no longer needed, but may still be viewed as needed
